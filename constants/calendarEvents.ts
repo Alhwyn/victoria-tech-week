@@ -71,6 +71,23 @@ export const calendarEvents: CalendarEvent[] = [
     tags: ["AI", "recruitment", "talent", "tech", "networking", "panel"]
   },
   {
+    id: 8,
+    title: "Innovation in an Age of Uncertainty",
+    description: "Join us for an inspiring evening exploring innovation, technology, and leadership in times of uncertainty. Connect with fellow innovators and thought leaders in Victoria's tech community.",
+    company: "Victoria Tech Week",
+    startDate: "2025-11-18",
+    endDate: "2025-11-18",
+    startTime: "16:00",
+    endTime: "20:00",
+    location: "Redbrick, 1515 Douglas Street",
+    category: "Conference",
+    speakers: [],
+    registrationUrl: "https://www.eventbrite.ca/e/innovation-in-an-age-of-uncertainty-tickets-1867508290569?aff=oddtdtcreator",
+    isVirtual: false,
+    maxAttendees: 150,
+    tags: ["innovation", "leadership", "technology", "networking", "uncertainty"]
+  },
+  {
     id: 3,
     title: "Startup Intro to VC: Guide for Victoria Founders",
     description: "Learn venture capital basics, meet investors, and get access to 20,000+ investor contacts. This event teaches Victoria startup founders about venture capital and how to secure funding for business growth.",
