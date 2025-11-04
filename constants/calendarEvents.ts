@@ -239,6 +239,29 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://luma.com/ghffntif",
     isVirtual: false,
     tags: ["greentech", "climate", "sustainability", "networking", "green-drinks", "victoria-tech-week"]
+  },
+  {
+    id: 10,
+    title: "Unlocking Opportunities in Canada's Defence Sector - The ITB Academy advantage",
+    description: "Join ITB Academy.ca a Goverly venture, for an inside look at how Canadian innovators can tap into billions in federal defence spending through the Industrial and Technological Benefits ITB Policy. Learn how our ITB Phase Alpha process helps companies identify alignment with defence primes, position their technologies under key industrial capabilities, and convert strategic relationships into revenue-generating opportunities. This session is ideal for companies in advanced manufacturing, clean technology, aerospace, artificial intelligence, quantum, cybersecurity, software development, telecommunications, energy storage, robotics, simulation and training, materials science, data analytics, transportation, and autonomous systems, as well as research institutions and engineering firms looking to break into Canada's growing defence and aerospace supply chain. Light snacks provided. Presentation 11am-11:45am, questions and networking to follow.",
+    company: "Goverly",
+    startDate: "2025-11-19",
+    endDate: "2025-11-19",
+    startTime: "11:00",
+    endTime: "13:00",
+    location: "777 Fort Street, Victoria, BC (Fort Tectoria)",
+    category: "Workshop",
+    speakers: [
+      {
+        name: "ITB Academy.ca",
+        role: "Presenter",
+        company: "Goverly",
+        image: "/speakers/placeholder.jpeg"
+      }
+    ],
+    registrationUrl: "https://www.lamppostsocial.com/victoria-tech-week/",
+    isVirtual: false,
+    tags: ["defence", "saas", "artificial-intelligence", "workshop", "goverly", "itb-policy", "government", "procurement", "cybersecurity", "aerospace"]
   }
 ];
 
