@@ -48,7 +48,10 @@ const transformCalendarEvent = (event: CalendarEvent): DisplayEvent => {
       case 'networking':
         return 'purple';
       case 'art installation':
+      case 'climate/greentech':
         return 'green';
+      case 'meetup':
+        return 'blue';
       default:
         return 'gray';
     }

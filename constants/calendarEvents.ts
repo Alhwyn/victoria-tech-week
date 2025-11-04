@@ -198,6 +198,47 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://www.eventbrite.ca/e/innovation-in-an-age-of-uncertainty-tickets-1867508290569?aff=oddtdtcreator",
     isVirtual: false,
     tags: ["innovation", "technology", "networking", "uncertainty", "strategy"]
+  },
+  {
+    id: 9,
+    title: "Greentech Drinks - Victoria Tech Week Special Event",
+    description: "Special edition of Green Drinks Victoria hosted at the Union Club in partnership with Westcom Business Solutions. Includes welcome drink, appetizers, showcase stations from local green tech companies, and networking with Victoria sustainability and tech crowd. Registration approval required.",
+    company: "Green Drinks Victoria",
+    startDate: "2025-11-19",
+    endDate: "2025-11-19",
+    startTime: "17:00",
+    endTime: "22:00",
+    location: "The Union Club of British Columbia, 805 Gordon St Victoria BC V8W 1Z6, Begbie Room and Lounge",
+    category: "Climate/Greentech",
+    speakers: [
+      {
+        name: "Chris Fernando",
+        role: "Host",
+        company: "Green Drinks Victoria",
+        image: "/speakers/placeholder.jpeg"
+      },
+      {
+        name: "Tony Ronson",
+        role: "Host",
+        company: "Green Drinks Victoria",
+        image: "/speakers/placeholder.jpeg"
+      },
+      {
+        name: "David Webb",
+        role: "Host",
+        company: "Green Drinks Victoria",
+        image: "/speakers/placeholder.jpeg"
+      },
+      {
+        name: "Keiver Tremblay",
+        role: "Host",
+        company: "Green Drinks Victoria",
+        image: "/speakers/1725794919482.jpeg"
+      }
+    ],
+    registrationUrl: "",
+    isVirtual: false,
+    tags: ["greentech", "climate", "sustainability", "networking", "green-drinks", "victoria-tech-week"]
   }
 ];
 
