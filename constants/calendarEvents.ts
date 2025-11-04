@@ -195,7 +195,7 @@ export const calendarEvents: CalendarEvent[] = [
     location: "Redbrick, 1515 Douglas Street",
     category: "Tech Talk",
     speakers: [],
-    registrationUrl: "https://www.eventbrite.ca/e/innovation-in-an-age-of-uncertainty-tickets-1867508290569?aff=oddtdtcreator",
+    registrationUrl: "https://www.eventbrite.ca/e/innovation-in-an-age-of-uncertainty-tickets-1867508290569",
     isVirtual: false,
     tags: ["innovation", "technology", "networking", "uncertainty", "strategy"]
   }
