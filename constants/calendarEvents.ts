@@ -236,7 +236,7 @@ export const calendarEvents: CalendarEvent[] = [
         image: "/speakers/1725794919482.jpeg"
       }
     ],
-    registrationUrl: "",
+    registrationUrl: "https://luma.com/ghffntif",
     isVirtual: false,
     tags: ["greentech", "climate", "sustainability", "networking", "green-drinks", "victoria-tech-week"]
   }
