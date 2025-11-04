@@ -182,6 +182,30 @@ export const calendarEvents: CalendarEvent[] = [
     isVirtual: false,
     maxAttendees: 100,
     tags: ["manufacturing", "automation", "facility-tour", "production-process", "reliable-controls", "building-controls", "engineering"]
+  },
+  {
+    id: 8,
+    title: "Innovation in an Age of Uncertainty",
+    description: "Join us for an evening exploring innovation and navigating uncertainty in today's rapidly changing tech landscape. Connect with fellow innovators and gain insights into building resilient businesses.",
+    company: "Redbrick",
+    startDate: "2025-11-18",
+    endDate: "2025-11-18",
+    startTime: "16:00",
+    endTime: "20:00",
+    location: "Redbrick at 1515 Douglas Street",
+    category: "Tech Talk",
+    speakers: [
+      {
+        name: "Redbrick",
+        role: "Host",
+        company: "Redbrick",
+        image: "/speakers/placeholder.jpeg"
+      }
+    ],
+    registrationUrl: "https://www.eventbrite.ca/e/innovation-in-an-age-of-uncertainty-tickets-1867508290569?aff=oddtdtcreator",
+    isVirtual: false,
+    maxAttendees: 100,
+    tags: ["innovation", "business", "networking", "tech-talk", "uncertainty", "entrepreneurship"]
   }
 ];
 
