@@ -23,30 +23,6 @@ export interface CalendarEvent {
 
 export const calendarEvents: CalendarEvent[] = [
   {
-    id: 1,
-    title: "TENFOLD TALKS",
-    description: "Join us for an insightful discussion with industry leaders about the future of technology and innovation.",
-    company: "TENFOLD",
-    startDate: "2025-11-17",
-    endDate: "2025-11-17",
-    startTime: "18:00",
-    endTime: "20:00",
-    location: "Victoria Conference Centre",
-    category: "Tech Talk",
-    speakers: [
-      {
-        name: "Keiver Tremblay",
-        role: "CEO",
-        company: "Elastic Energy",
-        image: "/speakers/1725794919482.jpeg"
-      }
-    ],
-    registrationUrl: "https://www.tenfoldvictoria.com/",
-    isVirtual: false,
-    maxAttendees: 150,
-    tags: ["technology", "innovation", "networking"]
-  },
-  {
     id: 2,
     title: "Tech Meets Talent: Navigating AI in Recruitment",
     description: "AI is disrupting recruitment for applicants and HR. Come discover the challenges and opportunities in this new era of hiring. UVic's Engineering & Computer Science Co-op team will host a panel of local companies and students.",
