@@ -1,14 +1,14 @@
 export const events = [
   {
     id: 1,
-    company: "TENFOLD",
-    date: "TO BE ANNOUNCED",
-    title: "TENFOLD TALKS",
+    company: "SUPABASE COMMUNITY EVENTS",
+    date: "NOV 19",
+    title: "SUPABASE MEETUP",
     useCarousel: false,
     speakers: [
       {
         name: "Keiver Tremblay",
-        role: "Elastic Energy",
+        role: "Host",
         image: "/speakers/1725794919482.jpeg"
       },
     ]
