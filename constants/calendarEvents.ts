@@ -265,6 +265,22 @@ export const calendarEvents: CalendarEvent[] = [
   },
   {
     id: 11,
+    title: "Discover Tectoria 2025",
+    description: "Discover Tectoria is an exposition of more than 75 Greater Victoria tech companies research projects interactive displays and community partners under ONE roof. It is one of the only events where locals and visitors come together to discover the innovation that is stemming from right here in Tectoria. Note about Startup Alley Exhibitor Package for tech startup companies that are 3 years old or less.",
+    company: "VIATEC",
+    startDate: "2025-11-21",
+    endDate: "2025-11-21",
+    startTime: "10:00",
+    endTime: "17:00",
+    location: "Crystal Garden at 713 Douglas St Victoria BC V8W 3M6 Canada",
+    category: "Exposition",
+    speakers: [],
+    registrationUrl: "https://members.viatec.ca/event-calendar/Details/discover-tectoria-2025-1443541?sourceTypeId=Website",
+    isVirtual: false,
+    tags: ["exposition", "innovation", "tech-companies", "networking", "startup-alley", "tectoria"]
+  },
+  {
+    id: 12,
     title: "Victoria Data Society Hockey Event with Victoria Royals",
     description: "Join the Victoria Data Society for an exciting hockey night with the Victoria Royals at Save-On-Foods Memorial Centre. Tickets are $17.50 for Section 114. A great opportunity to network with fellow data enthusiasts while enjoying a thrilling hockey game!",
     company: "Victoria Data Society",
