@@ -262,6 +262,22 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://www.lamppostsocial.com/victoria-tech-week/",
     isVirtual: false,
     tags: ["defence", "saas", "artificial-intelligence", "workshop", "goverly", "itb-policy", "government", "procurement", "cybersecurity", "aerospace"]
+  },
+  {
+    id: 11,
+    title: "Victoria Data Society Hockey Event with Victoria Royals",
+    description: "Join the Victoria Data Society for an exciting hockey night with the Victoria Royals at Save-On-Foods Memorial Centre. Tickets are $17.50 for Section 114. A great opportunity to network with fellow data enthusiasts while enjoying a thrilling hockey game!",
+    company: "Victoria Data Society",
+    startDate: "2025-11-18",
+    endDate: "2025-11-18",
+    startTime: "19:00",
+    endTime: "22:00",
+    location: "Save-On-Foods Memorial Centre, 1920 Blanshard Street, Victoria, BC",
+    category: "Networking",
+    speakers: [],
+    registrationUrl: "https://selectyourtickets.evenue.net/promotions/event/VR2526/VG12/VICDATA",
+    isVirtual: false,
+    tags: ["hockey", "data", "networking", "sports", "community", "victoria-royals"]
   }
 ];
 
