@@ -23,6 +23,29 @@ export interface CalendarEvent {
 
 export const calendarEvents: CalendarEvent[] = [
   {
+    id: 1,
+    title: "Cyrus Cafe /w Claude Code",
+    description: "Join us for a casual meetup at Nourish cafe featuring discussions about Claude Code and AI-assisted development.",
+    company: "Cyrus Cafe",
+    startDate: "2025-11-18",
+    endDate: "2025-11-18",
+    startTime: "10:00",
+    endTime: "11:30",
+    location: "Nourish cafe",
+    category: "Meetup",
+    speakers: [
+      {
+        name: "Connor",
+        role: "CEO",
+        company: "Ceedar",
+        image: "/speakers/connor.jpeg"
+      }
+    ],
+    registrationUrl: "https://luma.com/zv592wv6",
+    isVirtual: false,
+    tags: ["AI", "claude", "meetup", "networking", "development"]
+  },
+  {
     id: 2,
     title: "Tech Meets Talent: Navigating AI in Recruitment",
     description: "AI is disrupting recruitment for applicants and HR. Come discover the challenges and opportunities in this new era of hiring. UVic's Engineering & Computer Science Co-op team will host a panel of local companies and students.",
