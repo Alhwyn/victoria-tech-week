@@ -14,23 +14,6 @@ export const events = [
     ]
   },
   {
-    id: 2,
-    company: "CYRUS CAFE",
-    date: "NOV 18",
-    title: "CYRUS CAFE /W CLAUDE CODE",
-    time: "10:00 AM",
-    venue: "Nourish cafe",
-    externalLink: "https://luma.com/zv592wv6",
-    useCarousel: false,
-    speakers: [
-      {
-        name: "Connor",
-        role: "CEO of Ceedar",
-        image: "/speakers/connor.jpeg"
-      },
-    ]
-  },
-  {
     id: 3,
     company: "VIATEC",
     date: "NOV 21",
