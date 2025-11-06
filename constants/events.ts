@@ -22,7 +22,13 @@ export const events = [
     venue: "Nourish cafe",
     externalLink: "https://luma.com/zv592wv6",
     useCarousel: false,
-    speakers: []
+    speakers: [
+      {
+        name: "Connor",
+        role: "CEO of Ceedar",
+        image: "/speakers/connor.jpeg"
+      },
+    ]
   },
   {
     id: 3,
