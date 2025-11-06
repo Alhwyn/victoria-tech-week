@@ -24,7 +24,7 @@ export interface CalendarEvent {
 export const calendarEvents: CalendarEvent[] = [
   {
     id: 1,
-    title: "Cyrus Cafe /w Claude Code",
+    title: "Cyrus Cafe w/ Claude Code",
     description: "Join us for a casual meetup at Nourish cafe featuring discussions about Claude Code and AI-assisted development.",
     company: "Cyrus Cafe",
     startDate: "2025-11-18",
