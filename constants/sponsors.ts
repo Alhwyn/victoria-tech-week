@@ -6,5 +6,6 @@ export const sponsors = [
   "WORKDAY", 
   "VICTORIA DATA SOCIETY", 
   "TENFOLD",
-  "SUPABASE"
+  "SUPABASE",
+  "CEEDAR"
 ];
