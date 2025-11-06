@@ -12,7 +12,7 @@ export function Footer() {
       <div className="relative z-10 max-w-[1800px] mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
         <div className="text-center mb-4 sm:mb-6">
           <p className="text-xs sm:text-sm text-stone-300/90 font-light tracking-wide">
-            POWERED BY
+            SITE POWERED BY
           </p>
         </div>
         
