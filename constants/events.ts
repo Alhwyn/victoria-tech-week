@@ -2,7 +2,7 @@ export const events = [
   {
     id: 11,
     company: "VIATEC",
-    date: "NOV 21",
+    date: "NOV 22",
     title: "DISCOVER TECTORIA 2025",
     useCarousel: false,
     speakers: []
