@@ -26,7 +26,7 @@ export const calendarEvents: CalendarEvent[] = [
     id: 1,
     title: "Cyrus Cafe w/ Claude Code",
     description: "Join us for a casual meetup at Nourish cafe featuring discussions about Claude Code and AI-assisted development.",
-    company: "Cyrus Cafe",
+    company: "Ceedar",
     startDate: "2025-11-18",
     endDate: "2025-11-18",
     startTime: "10:00",
