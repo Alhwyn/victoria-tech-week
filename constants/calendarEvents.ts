@@ -35,7 +35,7 @@ export const calendarEvents: CalendarEvent[] = [
     category: "Meetup",
     speakers: [
       {
-        name: "Connor",
+        name: "Mark Connor",
         role: "CEO",
         company: "Ceedar",
         image: "/speakers/connor.jpeg"
