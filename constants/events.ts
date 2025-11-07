@@ -1,17 +1,11 @@
 export const events = [
   {
-    id: 1,
-    company: "SUPABASE COMMUNITY EVENTS",
-    date: "NOV 19",
-    title: "SUPABASE MEETUP",
+    id: 11,
+    company: "VIATEC",
+    date: "NOV 21",
+    title: "DISCOVER TECTORIA 2025",
     useCarousel: false,
-    speakers: [
-      {
-        name: "Keiver Tremblay",
-        role: "Host",
-        image: "/speakers/1725794919482.jpeg"
-      },
-    ]
+    speakers: []
   },
   {
     id: 3,
@@ -120,6 +114,20 @@ export const events = [
         role: "Palo Alto Networks",
         image: "/speakers/1756233921212.jpeg"
       }
+    ]
+  },
+  {
+    id: 1,
+    company: "SUPABASE COMMUNITY EVENTS",
+    date: "NOV 19",
+    title: "SUPABASE MEETUP",
+    useCarousel: false,
+    speakers: [
+      {
+        name: "Keiver Tremblay",
+        role: "Host",
+        image: "/speakers/1725794919482.jpeg"
+      },
     ]
   },
 ];
