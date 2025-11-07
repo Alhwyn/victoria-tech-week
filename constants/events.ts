@@ -1,5 +1,13 @@
 export const events = [
   {
+    id: 11,
+    company: "VIATEC",
+    date: "NOV 21",
+    title: "DISCOVER TECTORIA 2025",
+    useCarousel: false,
+    speakers: []
+  },
+  {
     id: 3,
     company: "VIATEC",
     date: "NOV 21",
@@ -121,13 +129,5 @@ export const events = [
         image: "/speakers/1725794919482.jpeg"
       },
     ]
-  },
-  {
-    id: 11,
-    company: "VIATEC",
-    date: "NOV 21",
-    title: "DISCOVER TECTORIA 2025",
-    useCarousel: false,
-    speakers: []
   },
 ];
