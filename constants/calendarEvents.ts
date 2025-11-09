@@ -159,6 +159,21 @@ export const calendarEvents: CalendarEvent[] = [
     tags: ["art", "installation", "poetry", "projection", "multi-sensory", "drop-in"]
   },
   {
+    id: 13,
+    title: "Viala Technologies: Open House",
+    description: "Come on by to Viala Technologies, your local special-purpose machine manufacturer and see how we do things! We started with just one employee 10 years ago, and have since grown into a staple in the Victorian manufacturing industry. Our new space is nearly 5000 square feet and we want to build your new machine in it. To celebrate tech week, our team of professionals will show you what it takes to build custom machines, including electrical, mechanical, and software demonstrations. We're excited to see you! Contact: info@vialatechnologies.com, 1 (250) 886-5526",
+    company: "Viala Technologies",
+    startDate: "2025-11-17",
+    endDate: "2025-11-17",
+    startTime: "16:00",
+    endTime: "19:00",
+    location: "2817 Quesnel St, Victoria, BC V8T 4K2",
+    category: "Open House",
+    speakers: [],
+    isVirtual: false,
+    tags: ["manufacturing", "open-house", "custom-machines", "electrical", "mechanical", "software", "facility-tour", "demonstration"]
+  },
+  {
     id: 6,
     title: "Tour of Reliable Controls Manufacturing Facility",
     description: "VI ASHRAE and iWIST invite you to a dynamic evening of connection and discovery at Reliable Controls. Explore their manufacturing facility and learn about automation and production processes in the building controls industry.",
