@@ -31,7 +31,7 @@ export const calendarEvents: CalendarEvent[] = [
     endDate: "2025-11-18",
     startTime: "10:00",
     endTime: "11:30",
-    location: "225 Quebec St, Victoria, BC V8V 1W2",
+    location: "Victoria, British Columbia",
     category: "Meetup",
     speakers: [
       {
