@@ -401,6 +401,64 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://luma.com/ydwz328f",
     isVirtual: false,
     tags: ["hockey", "networking", "tenfold", "sports", "community", "victoria-royals", "tech-week"]
+  },
+  {
+    id: 17,
+    title: "Tenfold Victoria - Future Skills Lab",
+    description: "Two back to back 1-hour blocks of high-signal, builder-focused workshop sessions led by some of Victoria's sharpest builders, founders and creatives. Pick one session to go deep, or move between multiple. Block 1 Sessions (12-1 PM): AI search & GEO (Lautaro) - Modern approaches for ranking, retrieval and AI-driven search. Fundraising IRL (Ben & Keiver, Elastic Energy) - What actually matters when raising a pre-seed or seed round in 2025. UX Design (Suzanne & Kirk) - How senior designers break down flows, evaluate friction and rebuild clean, opinionated interfaces. Block 2 Sessions (1-2 PM): Gen AI creativity (Kirk Clyne) - A fast dive into the frontier of AI-powered art, video, and creative workflows. UX for AI (Suzanne) - Design patterns for LLM-infused products. PMF & Product Loops (Trelent) - What product-market fit actually looks like today. System architecture (Veilstream) - Patterns, tradeoffs and reasoning frameworks senior engineers use when designing real systems.",
+    company: "Tenfold Victoria",
+    startDate: "2025-11-19",
+    endDate: "2025-11-19",
+    startTime: "12:00",
+    endTime: "14:00",
+    location: "Victoria, British Columbia",
+    category: "Workshop",
+    speakers: [
+      {
+        name: "Keiver Tremblay",
+        role: "Host",
+        company: "Tenfold Victoria",
+        image: "/speakers/1725794919482.jpeg"
+      }
+    ],
+    registrationUrl: "https://luma.com/dvy7e4oc",
+    isVirtual: false,
+    tags: ["AI", "workshop", "tenfold", "victoria-tech-week", "skills", "learning", "UX", "fundraising", "architecture"]
+  },
+  {
+    id: 18,
+    title: "Tenfold Victoria - Afterlight: Victoria Tech Week Finale w/ Dopa",
+    description: "Afterlight - the unofficial finale of Victoria Tech Week 2025. Hosted by: Dopa x Tenfold Victoria. Supported by: LampPost Social, Tourismo & Elastic Energy. A high-energy rooftop finale for founders, builders, students and visitors who want to end their week on a cultural high note. Music, friends, creativity and a view that does half the work. Features DJ set by Dopa, rooftop refreshments, 'Bet on Yourself' Zone with pool, poker, push-ups, pitch, etc., micro-goal bet boards, hourly raffles, ambient lighting and interactive visuals. $20 CAD covers venue, gear, beverages and cleanup. Any surplus supports future Tenfold events and grants. Ages 19+, wristband required for entry.",
+    company: "Tenfold Victoria",
+    startDate: "2025-11-21",
+    endDate: "2025-11-21",
+    startTime: "20:00",
+    endTime: "23:30",
+    location: "Victoria, British Columbia",
+    category: "Networking",
+    speakers: [
+      {
+        name: "Keiver Tremblay",
+        role: "Host",
+        company: "Tenfold Victoria",
+        image: "/speakers/1725794919482.jpeg"
+      },
+      {
+        name: "Owen Works",
+        role: "Co-Host",
+        company: "Tenfold Victoria",
+        image: "/speakers/placeholder.jpeg"
+      },
+      {
+        name: "Jared Leary",
+        role: "Co-Host",
+        company: "Dopa",
+        image: "/speakers/placeholder.jpeg"
+      }
+    ],
+    registrationUrl: "https://luma.com/grrmmj2p",
+    isVirtual: false,
+    tags: ["networking", "social", "music", "finale", "tenfold", "victoria-tech-week", "rooftop", "dj"]
   }
 ];
 
