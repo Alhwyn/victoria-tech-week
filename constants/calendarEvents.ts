@@ -308,6 +308,99 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://selectyourtickets.evenue.net/promotions/event/VR2526/VG12/VICDATA",
     isVirtual: false,
     tags: ["hockey", "data", "networking", "sports", "community", "victoria-royals"]
+  },
+  {
+    id: 14,
+    title: "Housing Systems Lab: AI for Real Infrastructure",
+    description: "A hands-on working session for people in housing, construction and civic innovation who want to build faster with AI, automation and modern systems thinking. Jam on real bottlenecks across permitting, data, manufacturing, financing and coordination. Bring your skills, your laptop and an appetite for speed. Meet builders actually shipping real AI tools. Learn practical ways to apply AI to infrastructure problems. Help shape the blueprint for a faster Victoria. No pitches. No panels. Just problem-solving. Outputs will be published in the Victoria Housing Systems Playbook following Tech Week.",
+    company: "Tenfold Victoria x BC Innovation Coalition",
+    startDate: "2025-11-17",
+    endDate: "2025-11-17",
+    startTime: "11:30",
+    endTime: "13:30",
+    location: "1700 Blanshard St, Victoria, BC V8W 0G8",
+    category: "Workshop",
+    speakers: [
+      {
+        name: "Keiver Tremblay",
+        role: "Host",
+        company: "Tenfold Victoria",
+        image: "/speakers/1725794919482.jpeg"
+      },
+      {
+        name: "Aaron Nelson",
+        role: "Co-Host",
+        company: "BC Innovation Coalition",
+        image: "/speakers/placeholder.jpeg"
+      },
+      {
+        name: "Chris Fernando",
+        role: "Co-Host",
+        company: "Tenfold Victoria",
+        image: "/speakers/placeholder.jpeg"
+      }
+    ],
+    registrationUrl: "https://luma.com/jj349zso",
+    isVirtual: false,
+    tags: ["AI", "housing", "infrastructure", "workshop", "tenfold", "construction", "civic-innovation", "automation"]
+  },
+  {
+    id: 15,
+    title: "Tenfold Victoria: Founder's Firesides",
+    description: "A night by the fire with lightning talks from founders building real products in Victoria. No fluff and no posturing, just truth, lessons learned and the raw reality behind the work. Unfiltered founder stories you won't get on any panel. Meet the builder core of Victoria. Spark collaborations for the rest of Tech Week. Short talks, sharp ideas, strong energy.",
+    company: "Tenfold Victoria",
+    startDate: "2025-11-17",
+    endDate: "2025-11-17",
+    startTime: "19:00",
+    endTime: "21:00",
+    location: "Victoria, British Columbia",
+    category: "Meetup",
+    speakers: [
+      {
+        name: "Keiver Tremblay",
+        role: "Host",
+        company: "Tenfold Victoria",
+        image: "/speakers/1725794919482.jpeg"
+      },
+      {
+        name: "Owen Works",
+        role: "Co-Host",
+        company: "Tenfold Victoria",
+        image: "/speakers/placeholder.jpeg"
+      }
+    ],
+    registrationUrl: "https://luma.com/1vd0qf1g",
+    isVirtual: false,
+    tags: ["founders", "startup", "meetup", "tenfold", "lightning-talks", "networking"]
+  },
+  {
+    id: 16,
+    title: "Tenfold Victoria - #077: In The Arena",
+    description: "Join us at the Victoria Royals game as a Tenfold Field Unit to connect with others in the tech community. Shoutout to Victoria Data Society for securing a group rate and an entire section of seating. This is the perfect opportunity to kick back, meet people and show up strong to celebrate Victoria Tech Week. Puck drops at 7:05 PM. Meet in Section 114 with the VDS crowd and the rest of the Victoria tech community. Group rate: $17.50 (regular: $25). Come as you are. Bring a jacket. Bring a friend. Builders in the wild.",
+    company: "Tenfold Victoria",
+    startDate: "2025-11-18",
+    endDate: "2025-11-18",
+    startTime: "19:00",
+    endTime: "22:00",
+    location: "Save-On-Foods Memorial Centre, 1925 Blanshard St Suite 101, Victoria, BC V8T 4J2",
+    category: "Networking",
+    speakers: [
+      {
+        name: "Keiver Tremblay",
+        role: "Host",
+        company: "Tenfold Victoria",
+        image: "/speakers/1725794919482.jpeg"
+      },
+      {
+        name: "Build Canada",
+        role: "Co-Host",
+        company: "Build Canada",
+        image: "/speakers/placeholder.jpeg"
+      }
+    ],
+    registrationUrl: "https://luma.com/ydwz328f",
+    isVirtual: false,
+    tags: ["hockey", "networking", "tenfold", "sports", "community", "victoria-royals", "tech-week"]
   }
 ];
 
