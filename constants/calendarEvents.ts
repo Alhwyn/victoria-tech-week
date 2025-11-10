@@ -401,41 +401,6 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://luma.com/ydwz328f",
     isVirtual: false,
     tags: ["hockey", "networking", "tenfold", "sports", "community", "victoria-royals", "tech-week"]
-  },
-  {
-    id: 17,
-    title: "Tenfold Victoria x Cursor Café @ UVic",
-    description: "Running alongside the Prompt Victoria AI Conference but on-campus, this Cursor Café pop-up is for students who can't make the conference work but still want to build. Bring your laptop, grab a table and get into flow with other students, founders and engineers. Low pressure, high signal, and focused on real work. Meet other people actually building things. Learn Cursor workflows that speed you up instantly. Pair up, debug, prototype, or jam on something new. Drop in anytime. Stay as long as you want.",
-    company: "Tenfold Victoria",
-    startDate: "2025-11-20",
-    endDate: "2025-11-20",
-    startTime: "09:30",
-    endTime: "16:00",
-    location: "University of Victoria, 3800 Finnerty Rd, Victoria, BC V8P 5C2",
-    category: "Workshop",
-    speakers: [
-      {
-        name: "Liam Shatzel",
-        role: "Host",
-        company: "Tenfold Victoria",
-        image: "/speakers/placeholder.jpeg"
-      },
-      {
-        name: "Alhwyn Geonzon",
-        role: "Co-Host",
-        company: "Tenfold Victoria",
-        image: "/speakers/placeholder.jpeg"
-      },
-      {
-        name: "Keiver Tremblay",
-        role: "Co-Host",
-        company: "Tenfold Victoria",
-        image: "/speakers/1725794919482.jpeg"
-      }
-    ],
-    registrationUrl: "https://luma.com/7gcnwr5v",
-    isVirtual: false,
-    tags: ["AI", "cursor", "coding", "workshop", "tenfold", "students", "uvic", "development"]
   }
 ];
 
