@@ -459,6 +459,35 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://luma.com/grrmmj2p",
     isVirtual: false,
     tags: ["networking", "social", "music", "finale", "tenfold", "victoria-tech-week", "rooftop", "dj"]
+  },
+  {
+    id: 19,
+    title: "AI IP for Entrepreneurs",
+    description: "Exploring effective strategies for using AI to create, maintain, and enforce IP rights. Join MLAIP® for an educational workshop on leveraging artificial intelligence for intellectual property management in your entrepreneurial ventures.",
+    company: "MLAIP®",
+    startDate: "2025-11-19",
+    endDate: "2025-11-19",
+    startTime: "15:00",
+    endTime: "17:00",
+    location: "Fort Tectoria, 777 Fort Street, Victoria, BC V8W 3E9",
+    category: "Workshop",
+    speakers: [
+      {
+        name: "Matthew Leaper",
+        role: "Headliner",
+        company: "MLAIP®",
+        image: "/speakers/placeholder.jpeg"
+      },
+      {
+        name: "Megan Leaper",
+        role: "Supporter",
+        company: "MLAIP®",
+        image: "/speakers/placeholder.jpeg"
+      }
+    ],
+    registrationUrl: "https://www.eventbrite.ca/e/ai-ip-for-entrepreneurs-tickets-1936981737519",
+    isVirtual: false,
+    tags: ["AI", "intellectual-property", "artificial-intelligence", "entrepreneurship", "workshop", "IP", "victoria-tech-week", "viatec"]
   }
 ];
 
