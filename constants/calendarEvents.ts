@@ -498,6 +498,29 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://www.meetup.com/victoria-data/events/311919819/",
     isVirtual: false,
     tags: ["AI", "networking", "social", "karaoke", "data", "victoria-data-society", "after-party", "tech-week"]
+  },
+  {
+    id: 21,
+    title: "Execution: Your Biggest Risk in 2026",
+    description: "The human side of execution is HARD. It's also a frequent cause of failure and frustration. This 2 hr workshop will make execution easier. Leaders and teams from any Vancouver Island business: Executive/Senior Leadership Team (ideal for maximum impact), Technical, dev-ops, engineering, Sales, Marketing, Ops, or any intact business-focused team. No size restrictions—just bring ONE team that meets regularly.",
+    company: "CopperTeams AI",
+    startDate: "2025-11-17",
+    endDate: "2025-11-17",
+    startTime: "10:00",
+    endTime: "12:00",
+    location: "Fort Tectoria, 777 Fort Street, Victoria, BC V8W 3E9",
+    category: "Workshop",
+    speakers: [
+      {
+        name: "Greg Nuk",
+        role: "Workshop Facilitator",
+        company: "CopperTeams AI",
+        image: "/speakers/placeholder.jpeg"
+      }
+    ],
+    registrationUrl: "https://www.eventbrite.ca/e/execution-your-biggest-risk-in-2026-tickets-1964550291807",
+    isVirtual: false,
+    tags: ["workshop", "execution", "leadership", "teams", "business", "strategy", "victoria-tech-week"]
   }
 ];
 
