@@ -475,6 +475,29 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://www.eventbrite.ca/e/victoria-tech-week-session-hosted-by-aot-technologies-tickets-1964474976537?aff=oddtdtcreator",
     isVirtual: false,
     tags: ["AI", "agentic-ai", "MCP", "A2A", "multi-agent-systems", "tech-talk", "victoria-tech-week", "machine-learning"]
+  },
+  {
+    id: 20,
+    title: "AI Conference After Party",
+    description: "🌴🎉 IT'S AFTER PARTY TIME! 🎉🌴 The Prompt Victoria AI Conference is bringing the brains... now VDS is bringing the vibes. Join us at Tora Tiki for karaoke from 7:00 PM – 9:00 PM, Blue Hawaiian drink specials ALL NIGHT, and good vibes with the Victoria tech community. This is your moment to kick back, sing loud, sip tropical, and hang with the Victoria tech fam in a place that feels like home. No tickets. No pressure. Just show up and let the night unfold.",
+    company: "Victoria Data Society",
+    startDate: "2025-11-20",
+    endDate: "2025-11-20",
+    startTime: "19:00",
+    endTime: "21:00",
+    location: "Tora Tiki, 714 Cormorant Street, Victoria, BC",
+    category: "Networking",
+    speakers: [
+      {
+        name: "Anu Jolliffe",
+        role: "Host",
+        company: "Victoria Data Society",
+        image: "/speakers/1750437762895.jpeg"
+      }
+    ],
+    registrationUrl: "https://www.meetup.com/victoria-data/events/311919819/",
+    isVirtual: false,
+    tags: ["AI", "networking", "social", "karaoke", "data", "victoria-data-society", "after-party", "tech-week"]
   }
 ];
 
