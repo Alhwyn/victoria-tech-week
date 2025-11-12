@@ -233,7 +233,7 @@ export function HeroSection() {
             <Button 
               variant="outline" 
               className="border-[#484848] text-[#484848] hover:bg-[#484848] hover:text-white"
-              onClick={() => window.location.href = 'mailto:alhwyn@alhwyn.com?subject=Host an Event at Victoria Tech Week'}
+              onClick={() => window.location.href = 'mailto:agentvictoria@alhwyn.online?subject=Host an Event at Victoria Tech Week'}
             >
               GET IN TOUCH
             </Button>
