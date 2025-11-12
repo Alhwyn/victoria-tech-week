@@ -273,7 +273,7 @@ export const calendarEvents: CalendarEvent[] = [
         image: "/speakers/placeholder.jpeg"
       }
     ],
-    registrationUrl: "https://www.lamppostsocial.com/victoria-tech-week/",
+    registrationUrl: "https://luma.com/obirvvav",
     isVirtual: false,
     tags: ["defence", "saas", "artificial-intelligence", "workshop", "goverly", "itb-policy", "government", "procurement", "cybersecurity", "aerospace"]
   },
