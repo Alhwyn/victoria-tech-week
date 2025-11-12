@@ -459,6 +459,30 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://luma.com/grrmmj2p",
     isVirtual: false,
     tags: ["networking", "social", "music", "finale", "tenfold", "victoria-tech-week", "rooftop", "dj"]
+  },
+  {
+    id: 19,
+    title: "ProductTank Victoria: Right things, Wrong order",
+    description: "An insightful presentation on the highs, lows, and surprises from building products at Apple, Rivian, and startups. Join Steve Davis for an encore round of his keynote presentation at ProductBC, with an intimate session at Redbrick. This exclusive evening brings together product managers, product owners, and tech innovators for collaborative learning and networking. Includes insights from technology leaders, networking opportunities, and complimentary snacks and drinks. Limited seats available (40-50 participants).",
+    company: "ProductTank Victoria",
+    startDate: "2025-11-20",
+    endDate: "2025-11-20",
+    startTime: "17:00",
+    endTime: "20:00",
+    location: "Redbrick, 1515 Douglas St #520, Victoria, BC",
+    category: "Tech Talk",
+    speakers: [
+      {
+        name: "Steve Davis",
+        role: "Product Management Leader",
+        company: "Apple, Rivian",
+        image: "/speakers/placeholder.jpeg"
+      }
+    ],
+    registrationUrl: "https://www.meetup.com/producttank-victoria/events/311854822/",
+    isVirtual: false,
+    maxAttendees: 50,
+    tags: ["product-management", "innovation", "technology-startups", "networking", "tech-talk", "product-development"]
   }
 ];
 
