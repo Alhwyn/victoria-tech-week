@@ -228,7 +228,7 @@ export function HeroSection() {
           
           <div className="relative z-10 text-center">
             <h2 className="text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6 text-[#484848] font-bold">
-              WANT TO HOST AN EVENT OR SPONSOR?
+              ADD AN EVENT
             </h2>
             <Button 
               variant="outline" 
