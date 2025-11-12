@@ -179,23 +179,3 @@
   cursor: none !important;
 }
 
-/* Sponsors Carousel Animation */
-@keyframes scroll-left {
-  0% {
-    transform: translateX(0%);
-  }
-  100% {
-    transform: translateX(-25%);
-  }
-}
-
-.sponsors-carousel {
-  animation: scroll-left 30s linear infinite;
-  will-change: transform;
-  display: flex;
-  width: max-content;
-}
-
-.sponsors-carousel:hover {
-  animation-play-state: paused;
-}
