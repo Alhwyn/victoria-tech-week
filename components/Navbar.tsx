@@ -77,16 +77,7 @@ export function Navbar() {
           
           <div className="flex-1 border-r-2 border-black/20">
             <button 
-              onClick={() => navigateToMainPageSection('sponsor')}
-              className="w-full text-center py-6 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm"
-            >
-              SPONSOR
-            </button>
-          </div>
-          
-          <div className="flex-1 border-r-2 border-black/20">
-            <button 
-              onClick={() => navigateToMainPageSection('sponsor')}
+              onClick={() => navigateToMainPageSection('contact')}
               className="w-full text-center py-6 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm"
             >
               HOST EVENT
@@ -133,13 +124,7 @@ export function Navbar() {
               EVENTS
             </button>
             <button 
-              onClick={() => navigateToMainPageSection('sponsor')}
-              className="w-full text-left px-4 py-4 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm border-b border-black/10"
-            >
-              SPONSOR
-            </button>
-            <button 
-              onClick={() => navigateToMainPageSection('sponsor')}
+              onClick={() => navigateToMainPageSection('contact')}
               className="w-full text-left px-4 py-4 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm border-b border-black/10"
             >
               HOST EVENT

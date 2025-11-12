@@ -4,7 +4,6 @@ import React from "react";
 import Image from "next/image";
 import { Button } from "./ui/button";
 import { events } from "../constants/events";
-import { sponsors } from "../constants/sponsors";
 import { waveformImage } from "../constants/assets";
 import { StayUpdated } from "./StayUpdated";
 import {
@@ -89,22 +88,6 @@ export function HeroSection() {
             </div>
           </div>
 
-          <div className="absolute bottom-0 left-0 right-0 bg-white/95 backdrop-blur-sm border-t border-black/20 overflow-hidden">
-            <div className="absolute left-0 top-0 w-32 h-full bg-gradient-to-r from-white to-transparent z-10 pointer-events-none"></div>
-            <div className="absolute right-0 top-0 w-32 h-full bg-gradient-to-l from-white to-transparent z-10 pointer-events-none"></div>
-            
-            <div className="sponsors-carousel items-center text-sm md:text-base whitespace-nowrap relative z-20 py-6">
-              {Array.from({ length: 4 }).map((_, setIndex) => (
-                <React.Fragment key={`sponsor-set-${setIndex}`}>
-                  {sponsors.map((sponsor, idx) => (
-                    <span key={`sponsor-${setIndex}-${idx}`} className="text-black/60 hover:text-black transition-colors font-medium mr-6">
-                      {sponsor}
-                    </span>
-                  ))}
-                </React.Fragment>
-              ))}
-            </div>
-          </div>
         </div>
 
         <div id="events" className="border-2 border-black/20 text-black p-4 sm:p-8 md:p-12 relative overflow-hidden" style={{ backgroundColor: '#f1f1f1' }}>
@@ -215,31 +198,6 @@ export function HeroSection() {
           </div>
         </div>
 
-        <div id="sponsor" className="border-2 border-black/20 text-black p-4 sm:p-8 md:p-12 relative mt-8 overflow-hidden bg-white">
-          <div 
-            className="absolute inset-0 opacity-20"
-            style={{
-              backgroundImage: "url('/sponsor2.png')",
-              backgroundSize: '100%',
-              backgroundPosition: 'center',
-              backgroundRepeat: 'no-repeat'
-            }}
-          />
-          
-          <div className="relative z-10 text-center">
-            <h2 className="text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6 text-[#484848] font-bold">
-              WANT TO HOST AN EVENT OR SPONSOR?
-            </h2>
-            <Button 
-              variant="outline" 
-              className="border-[#484848] text-[#484848] hover:bg-[#484848] hover:text-white"
-              onClick={() => window.location.href = 'mailto:agentvictoria@alhwyn.online?subject=Host an Event at Victoria Tech Week'}
-            >
-              GET IN TOUCH
-            </Button>
-            
-          </div>
-        </div>
       </div>
     </div>
   );
