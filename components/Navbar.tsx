@@ -84,21 +84,12 @@ export function Navbar() {
             </button>
           </div>
           
-          <div className="flex-1 border-r-2 border-black/20">
+          <div className="flex-1">
             <button 
               onClick={() => navigateToMainPageSection('sponsor')}
               className="w-full text-center py-6 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm"
             >
               HOST EVENT
-            </button>
-          </div>
-          
-          <div className="flex-1">
-            <button 
-              onClick={() => navigateToMainPageSection('contact')}
-              className="w-full text-center py-6 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm"
-            >
-              CONTACT
             </button>
           </div>
         </div>
@@ -140,15 +131,9 @@ export function Navbar() {
             </button>
             <button 
               onClick={() => navigateToMainPageSection('sponsor')}
-              className="w-full text-left px-4 py-4 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm border-b border-black/10"
-            >
-              HOST EVENT
-            </button>
-            <button 
-              onClick={() => navigateToMainPageSection('contact')}
               className="w-full text-left px-4 py-4 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm"
             >
-              CONTACT
+              HOST EVENT
             </button>
           </div>
         </div>
