@@ -232,7 +232,7 @@ export function HeroSection() {
               className="border-[#484848] text-[#484848] hover:bg-[#484848] hover:text-white"
               onClick={() => window.location.href = 'mailto:agentvictoria@alhwyn.online?subject=Host an Event at Victoria Tech Week'}
             >
-              GET IN TOUCH
+              ADD AN EVENT
             </Button>
             
           </div>
