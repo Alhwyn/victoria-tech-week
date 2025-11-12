@@ -89,7 +89,7 @@ export function Navbar() {
               onClick={() => navigateToMainPageSection('sponsor')}
               className="w-full text-center py-6 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm"
             >
-              HOST EVENT
+              ADD EVENT
             </button>
           </div>
         </div>
@@ -133,7 +133,7 @@ export function Navbar() {
               onClick={() => navigateToMainPageSection('sponsor')}
               className="w-full text-left px-4 py-4 text-[#484848] hover:bg-gray-50 transition-colors font-medium tracking-wider text-sm"
             >
-              HOST EVENT
+              ADD EVENT
             </button>
           </div>
         </div>
