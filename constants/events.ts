@@ -130,4 +130,18 @@ export const events = [
       },
     ]
   },
+  {
+    id: 12,
+    company: "PRODUCTTANK VICTORIA",
+    date: "NOV 20",
+    title: "RIGHT THINGS, WRONG ORDER",
+    useCarousel: false,
+    speakers: [
+      {
+        name: "Steve Davis",
+        role: "Apple, Rivian, Startups",
+        image: "/speakers/placeholder.jpeg"
+      },
+    ]
+  },
 ];
