@@ -459,6 +459,22 @@ export const calendarEvents: CalendarEvent[] = [
     registrationUrl: "https://luma.com/grrmmj2p",
     isVirtual: false,
     tags: ["networking", "social", "music", "finale", "tenfold", "victoria-tech-week", "rooftop", "dj"]
+  },
+  {
+    id: 19,
+    title: "WHEN AIs START CHATTING: The Gossip protocols of MCP and A2A",
+    description: "This session offers a summary of the exciting evolution of Modern AI from isolated models into interconnected Agentic AI systems that actively share knowledge, coordinate, and collaborate. Attendees will gain a foundational understanding of the Basics of AI and an in-depth overview of core Agentic AI concepts. We will demonstrate how these agents achieve complex goals by utilizing key components like Tools, Memory, and Planning. The discussion will highlight the critical need for communication standards, explaining why protocols such as the Multi-Agent Coordination Protocol (MCP) and Agent-to-Agent (A2A) messaging are now essential for system functionality. The event concludes with a focus on Best Practices, providing practical guidance on what to design, monitor, and restrict when building effective multi-agent systems, followed by Live Demonstrations of agents in action.",
+    company: "AOT Technologies",
+    startDate: "2025-11-21",
+    endDate: "2025-11-21",
+    startTime: "13:30",
+    endTime: "15:30",
+    location: "Downtown Victoria, 325-1207 Douglas Street",
+    category: "Tech Talk",
+    speakers: [],
+    registrationUrl: "https://www.eventbrite.ca/e/victoria-tech-week-session-hosted-by-aot-technologies-tickets-1964474976537?aff=oddtdtcreator",
+    isVirtual: false,
+    tags: ["AI", "agentic-ai", "MCP", "A2A", "multi-agent-systems", "tech-talk", "victoria-tech-week", "machine-learning"]
   }
 ];
 
