@@ -8,7 +8,7 @@ const ALL = LOWER + UPPER + NUM;
 
 function genPwd(len = LEN): string {
   len = Math.max(MIN, Math.min(MAX, len));
-  let pwd = [
+  const pwd = [
     LOWER[crypto.randomInt(LOWER.length)],
     UPPER[crypto.randomInt(UPPER.length)],
     NUM[crypto.randomInt(NUM.length)],
